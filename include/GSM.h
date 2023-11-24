@@ -2,7 +2,8 @@
 #define _GSM_H_INCLUDED
 
 #include <Arduino.h>
-
+#include <stddef.h>
+#include <time.h>
 #include "modem.h"
 
 enum NetworkStatus {ERROR, CONNECTING, GSM_READY, GSM_OFF, GPRS_READY, GPRS_OFF};
