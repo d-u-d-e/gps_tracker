@@ -1,4 +1,0 @@
-CompileFlags:
-  CompilationDatabase: ./
-  Add:
-  - "--include-directory=/home/marco/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include"
